@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+
+
+
+.q{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 50px;
+}
+.cq{
+    display: flex;
+    flex-direction: column;
+}
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    align-items: center;
+    justify-content: center;
+    margin: 28px 70px;
+}
+
+.a{
+    display: none;
+    font-family: 'Nunito', sans-serif;
+    font-size: 52px;
+    background-color: #44ff00;
+    border: antiquewhite;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    
+}
+progress{
+    width: 90vw;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 55px;
+}
+
+button{
+    border-radius: 10px;
+    border: aliceblue;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 40px;
+}
